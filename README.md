@@ -1,7 +1,3 @@
-# Yukyung Min ( Software Engineer, Frontend )
-안녕하세요. 서비스를 사용자 입장에서 생각하는 개발자, 민유경입니다.  
-최선의 결과를 만들어내기 위해, 다양한 케이스의 시나리오를 고려해보는 것을 좋아합니다.
-
 ## Tech Stack
 ### Frontend
 - JavaScript, TypeScript  

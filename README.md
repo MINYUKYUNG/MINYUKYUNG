@@ -4,7 +4,7 @@
 - React 18, Recoil, Redux, Redux Toolkit  
 - Vue.js, Vuex  
 - HTML5, CSS3  
-- Tailwind CSS, styled-components
+- Tailwind CSS, styled-components, Emotion  
 
 ### Backend
 - Node.js, Express  
